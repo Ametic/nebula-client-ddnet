@@ -1,6 +1,7 @@
 # Nebula Client
 
 Our own flavor of DDNet client, based on other clients like [Tater](https://github.com/sjrc6/TaterClient-ddnet), [Entity Client](https://github.com/qxdFox/Entity-Client-DDNet), or [Pulse](https://github.com/PulseClient-ddnet/DDNetPulse/).
+Maintained only in our free time, taking things kinda slowly. :)
 
 ## Features:
 
@@ -19,6 +20,6 @@ It will clone whole repo with necessary libs.
 - [DDNet Team](https://github.com/ddnet/ddnet) - for maintaining this beautiful game.
 - [Tater](https://github.com/sjrc6/TaterClient-ddnet) - for creating Tater Client.
 - [qxdFox](https://github.com/qxdFox/) - for creating Entity Client.
-- [StormAx](https://github.com/StormAxs/)- for creating Pulse Client.
+- [StormAx](https://github.com/StormAxs/) - for creating Pulse Client.
 - [Shkyyl](https://github.com/Shkyyl) - for contributing.
 
