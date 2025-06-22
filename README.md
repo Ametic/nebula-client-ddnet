@@ -16,9 +16,9 @@ It will clone whole repo with necessary libs.
 
 ## Special thanks to:
 
-[DDNet Team](https://github.com/ddnet/ddnet) - for maintaining this beautiful game.
-[Tater](https://github.com/sjrc6/TaterClient-ddnet) - for creating Tater Client.
-[qxdFox](https://github.com/qxdFox/) - for creating Entity Client.
-[StormAx](https://github.com/StormAxs/)- for creating Pulse Client.
-[Shkyyl](https://github.com/Shkyyl) - for contributing.
+- [DDNet Team](https://github.com/ddnet/ddnet) - for maintaining this beautiful game.
+- [Tater](https://github.com/sjrc6/TaterClient-ddnet) - for creating Tater Client.
+- [qxdFox](https://github.com/qxdFox/) - for creating Entity Client.
+- [StormAx](https://github.com/StormAxs/)- for creating Pulse Client.
+- [Shkyyl](https://github.com/Shkyyl) - for contributing.
 
