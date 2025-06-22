@@ -621,6 +621,7 @@ protected:
 	void RenderSettingsSound(CUIRect MainView);
 	void RenderSettings(CUIRect MainView);
 	void RenderSettingsCustom(CUIRect MainView);
+	void RenderSettingsNebula(CUIRect MainView);
 
 	std::vector<CButtonContainer> m_vButtonContainersJoystickAbsolute = {{}, {}};
 	std::vector<CButtonContainer> m_vButtonContainersNamePlateShow = {{}, {}, {}, {}};
@@ -725,6 +726,7 @@ public:
 		SETTINGS_SOUND,
 		SETTINGS_DDNET,
 		SETTINGS_ASSETS,
+		SETTINGS_NEBULA,
 
 		SETTINGS_LENGTH,
 
@@ -853,6 +855,12 @@ private:
 	void RenderSettingsDDNet(CUIRect MainView);
 	void RenderSettingsAppearance(CUIRect MainView);
 	bool RenderHslaScrollbars(CUIRect *pRect, unsigned int *pColor, bool Alpha, float DarkestLight);
+
+	// found in menus_nebula.cpp
+	void RenderSettingsNebulaMain(CUIRect MainView);
+	void RenderSettingsNebulaTClient(CUIRect MainView);
+	void RenderSettingsNebulaPulse(CUIRect MainView);
+	void RenderSettingsNebulaAClient(CUIRect MainView);
 
 	CServerProcess m_ServerProcess;
 };

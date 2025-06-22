@@ -2377,6 +2377,7 @@ if(CLIENT)
     components/motd.h
     components/nameplates.cpp
     components/nameplates.h
+    components/Nebula/menus_nebula.cpp
     components/particles.cpp
     components/particles.h
     components/players.cpp
