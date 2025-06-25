@@ -22,5 +22,5 @@ It will clone whole repo with necessary libs.
 - [qxdFox](https://github.com/qxdFox/) - for creating Entity Client.
 - [StormAx](https://github.com/StormAxs/) - for creating Pulse Client.
 - [Shkyyl](https://github.com/Shkyyl) - for contributing.
-- [Digrob/Hojphy](https://github.com/Digrob) - for contributing.
+- [Hojphy](https://github.com/Hojphy) - for contributing.
 
